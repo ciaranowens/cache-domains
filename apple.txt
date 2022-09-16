@@ -14,3 +14,6 @@ cdn.apple.com
 *.cdn.apple.com
 updates.cdn-apple.com
 *.updates.cdn-apple.com
+*.ls.apple.com
+gdmf.apple.com
+xp.apple.com
