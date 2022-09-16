@@ -1,0 +1,6 @@
+*.appldnld.apple.com
+*.phobos.apple.com
+swscan.apple.com
+swquery.apple.com
+swdownload.apple.com
+swcdn.apple.com
