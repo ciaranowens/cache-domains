@@ -12,3 +12,5 @@ phobos.apple.com
 *.swcdn.apple.com
 cdn.apple.com
 *.cdn.apple.com
+updates.cdn-apple.com
+*.updates.cdn-apple.com
